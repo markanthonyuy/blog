@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---my-blog-is-live": [
-      "path---my-blog-is-live-1eaf098be57e23700243.js",
-      "path---my-blog-is-live-1eaf098be57e23700243.js.map"
+      "path---my-blog-is-live-e9a58ce2621349567981.js",
+      "path---my-blog-is-live-e9a58ce2621349567981.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-068ecab3f2333dcede94.js",
@@ -37,9 +37,9 @@
       "component---src-templates-post-js-5a8bc0a957ce8e3df524.js.map"
     ],
     "app": [
-      "app-248edcdda5e30ee7d6a2.js",
+      "app-90b04477c62f0116274b.js",
       "build-js-styles.css",
-      "app-248edcdda5e30ee7d6a2.js.map",
+      "app-90b04477c62f0116274b.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

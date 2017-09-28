@@ -1,0 +1,2 @@
+webpackJsonp([0xe70826b53c04],{"./node_modules/json-loader/index.js!./.cache/json/404.json":function(e,o){e.exports={data:{allMarkdownRemark:{edges:[{node:{id:"C:/Users/user/Documents/project/blog/src/pages/09-27-2017-my-blog-is-live/index.md absPath of file >>> MarkdownRemark",frontmatter:{date:"September 27, 2017",path:"/my-blog-is-live",title:"My blog is live"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---404-3934dd23ed8bbc9a9956.js.map

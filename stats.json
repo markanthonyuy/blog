@@ -12,13 +12,9 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "component---cache-dev-404-page-js": [
-      "component---cache-dev-404-page-js-6e587afc67adcaf05378.js",
-      "component---cache-dev-404-page-js-6e587afc67adcaf05378.js.map"
-    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-e3e36053afee7f818423.js",
-      "component---src-layouts-index-js-e3e36053afee7f818423.js.map"
+      "component---src-layouts-index-js-41b4a98c12c711d778f0.js",
+      "component---src-layouts-index-js-41b4a98c12c711d778f0.js.map"
     ],
     "path---index": [
       "path---index-3934dd23ed8bbc9a9956.js",
@@ -41,22 +37,18 @@
       "component---src-templates-post-js-5a8bc0a957ce8e3df524.js.map"
     ],
     "app": [
-      "app-627186c678eaf6ea7ce4.js",
+      "app-c7981a224e5f0aa71d2c.js",
       "build-js-styles.css",
-      "app-627186c678eaf6ea7ce4.js.map",
+      "app-c7981a224e5f0aa71d2c.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---dev-404-page": [
-      "path---dev-404-page-d56607ddb477726a107a.js",
-      "path---dev-404-page-d56607ddb477726a107a.js.map"
     ],
     "path---404": [
       "path---404-3934dd23ed8bbc9a9956.js",
       "path---404-3934dd23ed8bbc9a9956.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-8e03a7d30a12fafc31a3.js",
-      "component---src-pages-about-js-8e03a7d30a12fafc31a3.js.map"
+      "component---src-pages-about-js-730a02de41b0d9d7f91c.js",
+      "component---src-pages-about-js-730a02de41b0d9d7f91c.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",

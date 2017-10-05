@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---my-blog-is-live": [
-      "path---my-blog-is-live-2b94ad0549bae737bfd6.js",
-      "path---my-blog-is-live-2b94ad0549bae737bfd6.js.map"
+      "path---my-blog-is-live-c70bb46c5f96bf8fb848.js",
+      "path---my-blog-is-live-c70bb46c5f96bf8fb848.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-ba9f217633e790f89825.js",
@@ -17,8 +17,8 @@
       "component---src-layouts-index-js-41b4a98c12c711d778f0.js.map"
     ],
     "path---index": [
-      "path---index-3934dd23ed8bbc9a9956.js",
-      "path---index-3934dd23ed8bbc9a9956.js.map"
+      "path---index-cfd63aa3819686062cc4.js",
+      "path---index-cfd63aa3819686062cc4.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-653b8f7ca06132443e9e.js",
@@ -29,22 +29,26 @@
       "commons-7007aecb64cce2dc82a4.js.map"
     ],
     "path---404-html": [
-      "path---404-html-3934dd23ed8bbc9a9956.js",
-      "path---404-html-3934dd23ed8bbc9a9956.js.map"
+      "path---404-html-cfd63aa3819686062cc4.js",
+      "path---404-html-cfd63aa3819686062cc4.js.map"
     ],
     "component---src-templates-post-js": [
       "component---src-templates-post-js-5a8bc0a957ce8e3df524.js",
       "component---src-templates-post-js-5a8bc0a957ce8e3df524.js.map"
     ],
     "app": [
-      "app-c7981a224e5f0aa71d2c.js",
+      "app-323885dd465c41e6890c.js",
       "build-js-styles.css",
-      "app-c7981a224e5f0aa71d2c.js.map",
+      "app-323885dd465c41e6890c.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
-      "path---404-3934dd23ed8bbc9a9956.js",
-      "path---404-3934dd23ed8bbc9a9956.js.map"
+      "path---404-cfd63aa3819686062cc4.js",
+      "path---404-cfd63aa3819686062cc4.js.map"
+    ],
+    "path---birthday-girl": [
+      "path---birthday-girl-ec914c251837b0001d68.js",
+      "path---birthday-girl-ec914c251837b0001d68.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-730a02de41b0d9d7f91c.js",

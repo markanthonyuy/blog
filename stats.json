@@ -5,20 +5,14 @@
       "path---my-blog-is-live-c70bb46c5f96bf8fb848.js.map"
     ],
     "component---src-pages-index-js": [
-<<<<<<< HEAD
       "component---src-pages-index-js-a4cf2bfe6db3fb2f82b6.js",
       "component---src-pages-index-js-a4cf2bfe6db3fb2f82b6.js.map"
-=======
-      "component---src-pages-index-js-ba9f217633e790f89825.js",
-      "component---src-pages-index-js-ba9f217633e790f89825.js.map"
->>>>>>> 2295189264c8f49e0d9552b5b9ffb3f293157f19
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-<<<<<<< HEAD
       "component---src-layouts-index-js-fe95dea1e81862564592.js",
       "component---src-layouts-index-js-fe95dea1e81862564592.js.map"
     ],
@@ -37,33 +31,12 @@
     "path---404-html": [
       "path---404-html-663107f4d2a95c5141be.js",
       "path---404-html-663107f4d2a95c5141be.js.map"
-=======
-      "component---src-layouts-index-js-41b4a98c12c711d778f0.js",
-      "component---src-layouts-index-js-41b4a98c12c711d778f0.js.map"
-    ],
-    "path---index": [
-      "path---index-cfd63aa3819686062cc4.js",
-      "path---index-cfd63aa3819686062cc4.js.map"
-    ],
-    "component---src-pages-404-js": [
-      "component---src-pages-404-js-653b8f7ca06132443e9e.js",
-      "component---src-pages-404-js-653b8f7ca06132443e9e.js.map"
-    ],
-    "commons": [
-      "commons-7007aecb64cce2dc82a4.js",
-      "commons-7007aecb64cce2dc82a4.js.map"
-    ],
-    "path---404-html": [
-      "path---404-html-cfd63aa3819686062cc4.js",
-      "path---404-html-cfd63aa3819686062cc4.js.map"
->>>>>>> 2295189264c8f49e0d9552b5b9ffb3f293157f19
     ],
     "component---src-templates-post-js": [
       "component---src-templates-post-js-5a8bc0a957ce8e3df524.js",
       "component---src-templates-post-js-5a8bc0a957ce8e3df524.js.map"
     ],
     "app": [
-<<<<<<< HEAD
       "app-95758824eff06370a770.js",
       "build-js-styles.css",
       "app-95758824eff06370a770.js.map",
@@ -80,24 +53,6 @@
     "component---src-pages-about-js": [
       "component---src-pages-about-js-e9cc3dc36bfb0a969da7.js",
       "component---src-pages-about-js-e9cc3dc36bfb0a969da7.js.map"
-=======
-      "app-40063eab55d115f75751.js",
-      "build-js-styles.css",
-      "app-40063eab55d115f75751.js.map",
-      "build-js-styles.css.map"
-    ],
-    "path---404": [
-      "path---404-cfd63aa3819686062cc4.js",
-      "path---404-cfd63aa3819686062cc4.js.map"
-    ],
-    "path---birthday-girl": [
-      "path---birthday-girl-76860af21c894de9d54b.js",
-      "path---birthday-girl-76860af21c894de9d54b.js.map"
-    ],
-    "component---src-pages-about-js": [
-      "component---src-pages-about-js-730a02de41b0d9d7f91c.js",
-      "component---src-pages-about-js-730a02de41b0d9d7f91c.js.map"
->>>>>>> 2295189264c8f49e0d9552b5b9ffb3f293157f19
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
